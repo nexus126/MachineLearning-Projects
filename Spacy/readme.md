@@ -1,1 +1,1 @@
-Exercitation on Spacy Library
+Exercitation on Data Annotation using Spacy.
